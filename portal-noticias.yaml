@@ -10,4 +10,3 @@ spec:
       image: aluracursos/portal-noticias:1
       ports:
         - containerPort: 80
-     
